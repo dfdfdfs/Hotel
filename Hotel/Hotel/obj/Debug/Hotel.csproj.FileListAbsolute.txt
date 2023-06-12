@@ -1,0 +1,11 @@
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\bin\Debug\Hotel.pdb
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.csproj.SuggestedBindingRedirects.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.HotelForm.resources
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Users\avas\Desktop\2023\studwork\Studexpres\Hotel\Hotel\obj\Debug\Hotel.pdb
