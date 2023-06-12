@@ -1,0 +1,11 @@
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\bin\Debug\City.exe.config
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\bin\Debug\City.exe
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\bin\Debug\City.pdb
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.csproj.AssemblyReference.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.csproj.SuggestedBindingRedirects.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.CityForm.resources
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.Properties.Resources.resources
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.csproj.GenerateResource.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.csproj.CoreCompileInputs.cache
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.exe
+D:\Users\avas\Desktop\2023\studwork\Studexpres\City\City\obj\Debug\City.pdb
